@@ -1,48 +1,79 @@
-<!-- Type writer  -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+My+name+is+Hasanboy!;&center=true&size=30">
-  </a>
-</h1>
-<!-- Snake Game -->
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake.svg">
-  </picture>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Salom%2C+men+Hasanboy+%F0%9F%91%8B;.NET+%2B+Angular+Full-Stack+Developer;Robototexnika+loyihalari+bilan+ishlayman+%F0%9F%A4%96" alt="Typing SVG" />
 
-<h3 align="center">Be Aware Be Safe !</h3>
+<a href="https://github.com/isxoqovxasanboy">
+  <img src="https://komarev.com/ghpvc/?username=isxoqovxasanboy&label=Profile%20views&color=7AA2F7&style=flat-square" alt="Profile views" />
+</a>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 
-- 🌱 I’m currently learning **C#,Aspi.Net and Vue.js**
+<br>
 
-- 👨‍💻 All of my projects are available at [isxoqovxasanboy](https://github.com/isxoqovxasanboy)
+## 🚀 Men haqimda
 
-- 💬 Ask me about **C#,Aspi.Net,C,python.**
+- 🤖 Hozir **ROBiFY** — robototexnika maktabi uchun admin panelini qurmoqdaman: **Angular 21** (standalone komponentlar, signals) + **Tailwind CSS v4**, clean/hexagonal arxitektura
+- 🧰 **.NET / ASP.NET Core** asosida backend: Web API, JWT autentifikatsiya, EF Core, Telegram botlar
+- 🧩 Repository pattern, SOLID va clean architecture — kodni qatlamlarga ajratib yozishni yoqtiraman
+- 🌱 Hozirgi fokus: Angular Signals & RxJS, PostgreSQL, Docker
+- 💬 Savol berishingiz mumkin: C#, ASP.NET Core, Angular/TypeScript, Telegram Bot API
+- 📫 Bog'lanish: **isxoqovxasanboy1@gmail.com**
 
-- 📫 How to reach me **isxoqovxasanboy1@gmail.com**
+## 🧠 Texnologiyalar
 
-- ⚡ Fun fact **I'm funny and i like conversation another peoples**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/user:21311610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21311610" height="30" width="40" /></a>
-<a href="https://instagram.com/ixlos_decor.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ixlos_decor.uz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/najot_izlab_kanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="najot_izlab_kanali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
-<a href="https://discord.gg/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img 
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isxoqovxasanboy&label=Profile%20views&color=0e75b6&style=flat" alt="isxoqovxasanboy" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isxoqovxasanboy&show_icons=true&locale=en" alt="isxoqovxasanboy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isxoqovxasanboy&" alt="isxoqovxasanboy" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />
+</p>
 
+## 📊 GitHub statistikam
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isxoqovxasanboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isxoqovxasanboy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=isxoqovxasanboy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🏆 Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=isxoqovxasanboy&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+## 🔗 Bog'lanish
+
+<p align="left">
+  <a href="mailto:isxoqovxasanboy1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://stackoverflow.com/users/21311610"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://leetcode.com/isxoqovxasanboy1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/isxoqovxasanboy1"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
